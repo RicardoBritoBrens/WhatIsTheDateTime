@@ -1,10 +1,10 @@
 {
-  "name": "test",
+  "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "get the current datetime",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
